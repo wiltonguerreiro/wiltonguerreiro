@@ -17,3 +17,7 @@
 <img align="center" alt="fedora" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
 </div>
 
+Você não conhece o poder do lado sombrio! 🖤
+
+# Apaixonado por TECNOLOGIA! 
+
