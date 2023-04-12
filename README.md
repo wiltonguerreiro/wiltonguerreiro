@@ -10,8 +10,7 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiltonguerreiro&layout=compact)</br>
 
-<br>
-### Learning ⬇️
+ ### Learning ⬇️
 <br/>
 
 <div style="display: inline_black"><br/>
