@@ -5,7 +5,7 @@
 
 
 ![Will GitHub stats](https://github-readme-stats.vercel.app/api?username=wiltonguerreiro&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiltonguerreiro&layout=compact)]
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiltonguerreiro&layout=compact)]</br>
 
 ## Tecnologias que eu uso no meu dia!
 
