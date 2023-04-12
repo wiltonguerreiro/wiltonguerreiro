@@ -1,4 +1,6 @@
-### Olá 🤚
+### Hi there 👋
+
+### Find me here ⬇️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wtnguerreiro)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.linkedin.com/in/willtonguerreiro/)
@@ -8,8 +10,9 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiltonguerreiro&layout=compact)</br>
 
-## Tecnologias que eu uso no meu dia!
-
+<br>
+### Learning ⬇️
+<br/>
 
 <div style="display: inline_black"><br/>
 <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
