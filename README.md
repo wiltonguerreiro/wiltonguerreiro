@@ -10,5 +10,13 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiltonguerreiro&layout=compact)</br>
 
+<div align="center">
+</div>
+ 
+  ![Snake animation](https://github.com/wiltonguerreiro/wiltonguerreiro/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=wiltonguerreiro&repo=wiltonguerreiro&theme=synthwave)](https://github.com/wiltonguerreiro/wiltonguerreiro)
 
 
